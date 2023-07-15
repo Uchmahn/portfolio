@@ -1,5 +1,5 @@
 <a href="">
-    <img src="https://.../images/svg/azubuine-logo-gradient.svg" alt="Azubuine's logo" title="Azubuine" align="right" height="60" />
+    <img src="https://azubuine.netlify.app/images/svg/azubuine-logo-gradient.svg" alt="Azubuine's logo" title="Azubuine" align="right" height="60" />
 </a>
 
 # Portfolio V1

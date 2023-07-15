@@ -181,7 +181,7 @@ const Menu = ({ isOpen, links }: { isOpen: boolean; links: ILinks }) => {
             </Flex>
           </Stack>
 
-          <Stack gap={3} align="start" order={{ base: 1, lg: 3 }} flex="1">
+          {/* <Stack gap={3} align="start" order={{ base: 1, lg: 3 }} flex="1">
             <Text
               color="gray.500"
               fontWeight="bold"
@@ -190,8 +190,8 @@ const Menu = ({ isOpen, links }: { isOpen: boolean; links: ILinks }) => {
               fontSize={{ base: 'xs', lg: 'sm' }}
             >
               Check out
-            </Text>
-            {/* <Flex width="100%" direction="column" justify="center">
+            </Text> *
+             <Flex width="100%" direction="column" justify="center">
               <Link
                 href="https://okino-public.s3.eu-west-2.amazonaws.com/resume.pdf"
                 _hover={{
@@ -224,8 +224,8 @@ const Menu = ({ isOpen, links }: { isOpen: boolean; links: ILinks }) => {
                   </Flex>
                 </Flex>
               </Link>
-            </Flex> */}
-          </Stack>
+            </Flex> *
+           </Stack> */}
         </Flex>
       </Box>
     </Slide>
