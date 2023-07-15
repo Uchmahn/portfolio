@@ -191,7 +191,7 @@ const Menu = ({ isOpen, links }: { isOpen: boolean; links: ILinks }) => {
             >
               Check out
             </Text>
-            <Flex width="100%" direction="column" justify="center">
+            {/* <Flex width="100%" direction="column" justify="center">
               <Link
                 href="https://okino-public.s3.eu-west-2.amazonaws.com/resume.pdf"
                 _hover={{
@@ -224,7 +224,7 @@ const Menu = ({ isOpen, links }: { isOpen: boolean; links: ILinks }) => {
                   </Flex>
                 </Flex>
               </Link>
-            </Flex>
+            </Flex> */}
           </Stack>
         </Flex>
       </Box>
