@@ -2,7 +2,7 @@ import { Flex, Box, Text, Stack, useDisclosure, Icon, Link, useMediaQuery, useTh
 import { Slide } from '@chakra-ui/react';
 import Image from 'next/image';
 import { useContext } from 'react';
-import { HiDocumentText } from 'react-icons/hi';
+// import { HiDocumentText } from 'react-icons/hi';
 
 import Toggle from './menu-toggle';
 

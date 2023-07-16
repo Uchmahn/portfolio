@@ -15,7 +15,7 @@ const SEO = () => (
     openGraph={{
       type: 'website',
       site_name: 'Azubuine',
-      url: 'https://okino.dev/',
+      url: 'https://azubuine.netlify.app/',
       title: 'Azubuine - Developer',
       description:
         'Software Engineer, and UI enthusiast with a passion for creating aesthetically pleasing user interfaces, with the goal of bridging the gap between design and implementation',
@@ -36,8 +36,8 @@ const SEO = () => (
     }}
     twitter={{
       cardType: 'summary_large_image',
-      site: '@yaseerokino',
-      handle: '@yaseerokino',
+      site: '@AzubuineU',
+      handle: '@AzubuineU',
     }}
     additionalLinkTags={[
       { rel: 'icon', type: 'image/x-icon', href: '/images/favicon.ico' },
